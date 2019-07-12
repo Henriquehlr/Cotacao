@@ -1,0 +1,13 @@
+Lista de Cotacao:
+
+Fornecedor: dsfl,dskm skmsdkfmpdskmf kpdsnkfmdsmfdRepresentante: dskmfpkdssm dskfmdsmData de validade: 15/18/47
+Quantidade de produtos cotados: 1
+Produto: [^
+]s
+Descricao do produto: s‡kdkmfkdms
+Codigo de barras: 14587
+Unidades: 2
+
+---------------------------------------------------
+
+Valor total da cotacao: 30.00
